@@ -6,3 +6,6 @@ print("File created from Githib")
 print("Line add from Pychar, IDE")
 print("@Fernando Luís")
 
+# The following lines were added in Github by F.Luis
+
+print("Hello from Github")
